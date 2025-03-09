@@ -40,9 +40,9 @@ Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor
 ```
 Berikut Screenshot caranya:
 
-1️⃣![SS5](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+</p>1️⃣![SS5]<img src="/screenshot/ss5.png" style="width: 50%; height: 50%;">
 
-2️⃣![SS6](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+</p>1️⃣![SS5]<img src="/screenshot/ss6.png" style="width: 50%; height: 50%;">
 
 `
 `
