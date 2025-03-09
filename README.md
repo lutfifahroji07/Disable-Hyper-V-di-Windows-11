@@ -17,7 +17,7 @@ Berikut Screenshot caranya:
 
 2️⃣
 <p align="center">
-  <img src="/screenshot/ss2.png">
+  <img width="460" src="/screenshot/ss2.png">
 </p>
 
 ##### NOTE: kalo masih gag bisa lanjut ke cara ke2 dan seterusnya...
