@@ -12,8 +12,7 @@ Berikut Screenshot caranya:
 
 1️⃣<img src="/screenshot/ss1.png" style="width: 50%; height: 50%;">
 
-2️⃣<img src="/screenshot/ss2.png" style="width: 50%; height: 50%;
-
+2️⃣<img src="/screenshot/ss2.png" style="width: 50%; height: 50%;">
 
 ##### NOTE: kalo masih gag bisa lanjut ke cara ke2 dan seterusnya...
 
