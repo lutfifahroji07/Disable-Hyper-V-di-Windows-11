@@ -28,7 +28,7 @@ Berikut Screenshot caranya:
 
 </p>1️⃣<img src="/screenshot/ss3.png" style="width: 50%; height: 50%;">
 
-</p>1️⃣<img src="/screenshot/ss4.png" style="width: 50%; height: 50%;">
+</p>2️⃣<img src="/screenshot/ss4.png" style="width: 50%; height: 50%;">
 
 
 ## CARA KE3
@@ -40,9 +40,9 @@ Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-Hypervisor
 ```
 Berikut Screenshot caranya:
 
-</p>1️⃣![SS5]<img src="/screenshot/ss5.png" style="width: 50%; height: 50%;">
+</p>1️⃣<img src="/screenshot/ss5.png" style="width: 50%; height: 50%;">
 
-</p>1️⃣![SS5]<img src="/screenshot/ss6.png" style="width: 50%; height: 50%;">
+</p>2️⃣<img src="/screenshot/ss6.png" style="width: 50%; height: 50%;">
 
 `
 `
