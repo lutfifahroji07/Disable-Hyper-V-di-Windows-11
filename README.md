@@ -11,13 +11,13 @@ Klik Start ➡️ Cari Turn Windows features on or off ➡️ Unchecklist Hyper-
 Berikut Screenshot caranya:
 
 1️⃣<p align="center">
-  <img width="460" height="300" src="https://github.com/lutfifahroji07/Disable-Hyper-V-di-Windows-11/blob/main/screenshot/ss1.png">
+  <img width="460" height="300" src="/screenshot/ss1.png">
 </p>
 
 2️⃣![SS2](/screenshot/ss2.png)
 
 <p align="center">
-  <img width="460" height="300" src="/screenshot/ss2.png">
+  <img src="/screenshot/ss2.png">
 </p>
 
 ##### NOTE: kalo masih gag bisa lanjut ke cara ke2 dan seterusnya...
