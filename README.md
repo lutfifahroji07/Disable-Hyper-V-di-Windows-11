@@ -10,14 +10,12 @@ Klik Start ➡️ Cari Turn Windows features on or off ➡️ Unchecklist Hyper-
 
 Berikut Screenshot caranya:
 
-1️⃣
-<p align="center">
-  <img width="460" height="300" src="/screenshot/ss1.png">
+1️⃣<p align="center">
+  <img width="460" height="460" src="/screenshot/ss1.png">
 </p>
 
-2️⃣
-<p align="center">
-  <img width="460" src="/screenshot/ss2.png">
+2️⃣<p align="center">
+  <img width="460" height="500" src="/screenshot/ss2.png">
 </p>
 
 ##### NOTE: kalo masih gag bisa lanjut ke cara ke2 dan seterusnya...
@@ -32,10 +30,13 @@ bcdedit /set hypervisorlaunchtype off
 ```
 Berikut Screenshot caranya:
 
-1️⃣![SS3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+1️⃣<p align="center">
+  <img width="460" height="460" src="/screenshot/ss3.png">
+</p>
 
-2️⃣![SS4](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+2️⃣<p align="center">
+  <img width="460" height="460" src="/screenshot/ss4.png">
+</p>
 
 
 ## CARA KE3
