@@ -10,9 +10,9 @@ Klik Start ➡️ Cari Turn Windows features on or off ➡️ Unchecklist Hyper-
 
 Berikut Screenshot caranya:
 
-</p>1️⃣<img src="/screenshot/ss1.png" style="width: 70%; height: 50%;">
+</p>1️⃣<img src="/screenshot/ss1.png" style="width: 70%; height: 70%;">
 
-</p>2️⃣<img src="/screenshot/ss2.png" style="width: 70%; height: 50%;">
+</p>2️⃣<img src="/screenshot/ss2.png" style="width: 70%; height: 70%;">
 
 ##### NOTE: kalo masih gag bisa lanjut ke cara ke2 dan seterusnya...
 
